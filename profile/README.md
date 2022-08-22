@@ -6,6 +6,7 @@ wellcome to Famous machine learning projects
 <img src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" alt="This will display an animated GIF" >
 </p>
 
+In this organization, I intend to share some of the most interesting issues in machine learning.
 <!--
 
 **Here are some ideas to get you started:**
