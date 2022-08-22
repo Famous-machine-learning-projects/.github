@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 wellcome to Famous machine learning projects
+
+<p align="center">
+<img src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" alt="This will display an animated GIF" >
+</p>
+
 <!--
 
 **Here are some ideas to get you started:**
